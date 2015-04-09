@@ -1,4 +1,4 @@
-prework for Codepath course
+prework for Codepath Design course
 
 How many hours did it take to complete? 5.5
 
